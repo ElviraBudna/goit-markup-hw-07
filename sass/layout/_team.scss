@@ -1,0 +1,8 @@
+.team {
+  background-color: var(--background-color-secondary);
+
+  &__list {
+    display: flex;
+    gap: 30px;
+  }
+}
