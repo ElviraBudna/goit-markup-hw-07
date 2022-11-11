@@ -160,6 +160,14 @@ img {
   padding-top: 94px;
   padding-bottom: 94px;
 }
+.features__main-title {
+  margin-bottom: 50px;
+  font-size: 36px;
+  line-height: 1.1666666667;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: var(--title-text-color);
+}
 .features__list {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -574,7 +582,6 @@ img {
   padding-top: 94px;
   padding-bottom: 94px;
 }
-
 .portfolio__title {
   margin-bottom: 50px;
   font-size: 36px;
@@ -717,6 +724,14 @@ img {
   padding-top: 94px;
   padding-bottom: 94px;
   background-color: var(--background-color-secondary);
+}
+.team__main-title {
+  margin-bottom: 50px;
+  font-size: 36px;
+  line-height: 1.1666666667;
+  letter-spacing: 0.03em;
+  text-align: center;
+  color: var(--title-text-color);
 }
 .team__list {
   display: -webkit-box;
