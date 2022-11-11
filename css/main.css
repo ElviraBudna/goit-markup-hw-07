@@ -209,15 +209,6 @@ img {
   letter-spacing: 0.03em;
 }
 
-.title {
-  margin-bottom: 50px;
-  font-size: 36px;
-  line-height: 1.1666666667;
-  letter-spacing: 0.03em;
-  text-align: center;
-  color: var(--title-text-color);
-}
-
 .footer {
   padding-top: 60px;
   padding-bottom: 60px;
